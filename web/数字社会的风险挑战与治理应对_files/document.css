@@ -1,0 +1,32 @@
+﻿@charset "UTF-8"; * {margin:0; padding:0; text-indent:0; }
+ h1 { color: black; font-family:"Microsoft JhengHei", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 26pt; }
+ h2 { color: black; font-family:"Microsoft JhengHei", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 24pt; }
+ .s1 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 18pt; }
+ .h3, h3 { color: black; font-family:"Microsoft JhengHei", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 18pt; }
+ .p, p { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; margin:0pt; }
+ .s2 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s3 { color: black; font-family:等线; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s4 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .a, a { color: black; font-family:等线; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s5 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s6 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s7 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s8 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 15pt; }
+ .s9 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 15pt; }
+ .s10 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
+ .h4, h4 { color: black; font-family:"Microsoft JhengHei", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
+ .s11 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s12 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s13 { color: black; font-family:"Microsoft JhengHei", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10.5pt; }
+ .s14 { color: black; font-family:"Microsoft JhengHei", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
+ .s15 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s16 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s17 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s18 { color: black; font-family:Wingdings; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s19 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s20 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s21 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: -3pt; }
+ .s22 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: -3pt; }
+ .s23 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: 4pt; }
+ .s24 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ table, tbody {vertical-align: top; overflow: visible; }
