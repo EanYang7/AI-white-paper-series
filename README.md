@@ -3,12 +3,12 @@
 
 | 名称                                 | 下载                                                         | 网页                                                      |
 | ------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- |
-| Al+Art                               | [PDF](pdf/2023 中国人工智能系列白皮书----AI+Art.pdf)         | [在线阅读](./web/数字社会的风险挑战与治理应对.html)       |
-| 人工智能原理                         | [PDF](pdf/2023 中国人工智能系列白皮书--人工智能原理.pdf)     | [在线阅读](web/人工智能原理.html)                         |
-| 深度学习                             | [PDF](pdf/2023 中国人工智能系列白皮书--深度学习.pdf)         | 待处理                                                    |
-| 大模型技术                           | [PDF](pdf/2023 中国人工智能系列白皮书--大模型技术（2023版）.pdf) | 待处理                                                    |
-| 心智计算：构建脑与心智启发的人工智能 | [PDF](pdf/2023 中国人工智能系列白皮书--心智计算：构建脑与心智启发的人工智能.pdf) | [在线阅读](web/心智计算：构建脑与心智启发的人工智能.html) |
-| 数字社会的风险挑战与治理应对         | [PDF](pdf/2023 中国人工智能系列白皮书--数字社会的风险挑战与治理应对.pdf) | [在线阅读](web/数字社会的风险挑战与治理应对.html)         |
-| 智慧电网                             | [PDF](pdf/2023 中国人工智能系列白皮书--智慧电网.pdf)         | 待处理                                                    |
-| 智能协同控制与人工智能               | [PDF](pdf/2023 中国人工智能系列白皮书--智能协同控制与人工智能.pdf) | [在线阅读](web/智能协同控制与人工智能.html)               |
+| Al+Art                               | [PDF](https://eanyang7.github.io/AI-white-paper-series/pdf/2023%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6----AI+Art.pdf) | [在线阅读](./web/数字社会的风险挑战与治理应对.html)       |
+| 人工智能原理                         | [PDF](https://eanyang7.github.io/AI-white-paper-series/pdf/2023%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6--%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8E%9F%E7%90%86.pdf) | [在线阅读](web/人工智能原理.html)                         |
+| 深度学习                             | [PDF](https://eanyang7.github.io/AI-white-paper-series/pdf/2023%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6--%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf) | 待处理                                                    |
+| 大模型技术                           | [PDF](https://eanyang7.github.io/AI-white-paper-series/pdf/2023%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6--%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%EF%BC%882023%E7%89%88%EF%BC%89.pdf) | 待处理                                                    |
+| 心智计算：构建脑与心智启发的人工智能 | [PDF](https://eanyang7.github.io/AI-white-paper-series/pdf/2023%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6--%E5%BF%83%E6%99%BA%E8%AE%A1%E7%AE%97%EF%BC%9A%E6%9E%84%E5%BB%BA%E8%84%91%E4%B8%8E%E5%BF%83%E6%99%BA%E5%90%AF%E5%8F%91%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf) | [在线阅读](web/心智计算：构建脑与心智启发的人工智能.html) |
+| 数字社会的风险挑战与治理应对         | [PDF](https://eanyang7.github.io/AI-white-paper-series/pdf/2023%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6--%E6%95%B0%E5%AD%97%E7%A4%BE%E4%BC%9A%E7%9A%84%E9%A3%8E%E9%99%A9%E6%8C%91%E6%88%98%E4%B8%8E%E6%B2%BB%E7%90%86%E5%BA%94%E5%AF%B9.pdf) | [在线阅读](web/数字社会的风险挑战与治理应对.html)         |
+| 智慧电网                             | [PDF](https://eanyang7.github.io/AI-white-paper-series/pdf/2023%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6--%E6%99%BA%E6%85%A7%E7%94%B5%E7%BD%91.pdf) | 待处理                                                    |
+| 智能协同控制与人工智能               | [PDF](https://eanyang7.github.io/AI-white-paper-series/pdf/2023%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6--%E6%99%BA%E8%83%BD%E5%8D%8F%E5%90%8C%E6%8E%A7%E5%88%B6%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf) | [在线阅读](web/智能协同控制与人工智能.html)               |
 
