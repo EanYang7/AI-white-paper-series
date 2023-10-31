@@ -1,0 +1,143 @@
+﻿@charset "UTF-8"; * {margin:0; padding:0; text-indent:0; }
+ .h1, h1 { color: black; font-family:等线; font-style: normal; font-weight: bold; text-decoration: none; font-size: 26pt; }
+ .s1 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 26pt; }
+ h2 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 18pt; }
+ .s2 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
+ .h4, h4 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
+ .p, p { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; margin:0pt; }
+ .s3 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ h3 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 15pt; }
+ .s4 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 16pt; }
+ .a { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s5 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s6 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
+ .s7 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
+ .s8 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 15pt; }
+ .s9 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 15pt; }
+ .s10 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s11 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s12 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 1pt; }
+ .s13 { color: black; font-family:Symbol, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 2pt; }
+ .s14 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
+ .s15 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: -3pt; }
+ .s16 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s17 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: -1pt; }
+ .s18 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: -9pt; }
+ .s19 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: 4pt; }
+ .s20 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: 4pt; }
+ .s21 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: -5pt; }
+ .s22 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s23 { color: black; font-family:Symbol, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s24 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s25 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s26 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s27 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s28 { color: black; font-family:Symbol, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s29 { color: black; font-family:Symbol, serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 12.5pt; }
+ .s30 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 12.5pt; }
+ .s31 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s32 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s33 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: 4pt; }
+ .s34 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s35 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: -1pt; }
+ .s36 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: -1pt; }
+ .s37 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s38 { color: black; font-family:Webdings, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s39 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s40 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 14pt; }
+ .s41 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: -3pt; }
+ .s42 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s44 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: -5pt; }
+ .s45 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: 4pt; }
+ .s46 { color: black; font-family:"Microsoft JhengHei", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
+ .s47 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14.5pt; }
+ .s48 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: 7pt; }
+ .s49 { color: black; font-family:等线; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: 7pt; }
+ .s50 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -2pt; }
+ .s51 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: 3pt; }
+ .s52 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 3pt; }
+ .s53 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; vertical-align: 4pt; }
+ .s54 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: -10pt; }
+ .s55 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: -1pt; }
+ .s57 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: underline; font-size: 9pt; vertical-align: -1pt; }
+ .s58 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: underline; font-size: 14pt; }
+ .s59 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 1pt; }
+ .s60 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: 1pt; }
+ .s61 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s62 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 4pt; }
+ .s63 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 2pt; }
+ .s64 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s65 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 9pt; }
+ .s66 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 5pt; }
+ .s67 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s68 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -2pt; }
+ .s69 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s70 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s71 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 8pt; }
+ .s72 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: -7pt; }
+ .s73 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 3pt; }
+ .s74 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 1pt; }
+ .s75 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 3pt; }
+ .s76 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s77 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s78 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -1pt; }
+ .s79 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: -1pt; }
+ .s80 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 5pt; }
+ .s81 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 9pt; }
+ .s82 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 1pt; }
+ .s83 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 1pt; }
+ .s84 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 10pt; }
+ .s85 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 1pt; }
+ .s86 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: -5pt; }
+ .s87 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: -1pt; }
+ .s88 { color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s89 { color: #333; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s90 { color: #333; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s91 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 2pt; }
+ .s92 { color: #202429; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s93 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: underline; font-size: 8pt; }
+ .s94 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 2pt; }
+ .s95 { color: #202429; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s96 { color: #202429; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s98 { color: #202429; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: -1pt; }
+ .s99 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -5pt; }
+ .s100 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -5pt; }
+ .s101 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; }
+ .s102 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; vertical-align: 4pt; }
+ .s103 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; vertical-align: -4pt; }
+ .s104 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s105 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s106 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 4pt; }
+ .s107 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 4pt; }
+ .s108 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -1pt; }
+ .s109 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: -3pt; }
+ .s110 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8.5pt; }
+ .s111 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s112 { color: black; font-family:Cambria, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: 3pt; }
+ .s113 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 3pt; }
+ .s114 { color: #333; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s115 { color: #333; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: -3pt; }
+ .s116 { color: #333; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: -3pt; }
+ .s117 { color: #333; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: 4pt; }
+ .s118 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s119 { color: black; font-family:Wingdings; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s120 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: -5pt; }
+ .s121 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 7pt; }
+ .s122 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 9pt; }
+ .s123 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 7pt; }
+ .s124 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: -7pt; }
+ .s125 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: -7pt; }
+ .s126 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
+ .s127 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s128 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; }
+ .s129 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 4pt; }
+ .s130 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 11pt; }
+ .s131 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 8pt; }
+ .s132 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 6pt; }
+ .s133 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 5pt; }
+ .s134 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; vertical-align: 2pt; }
+ .s135 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 9pt; }
+ .s136 { color: black; font-family:"Cambria Math", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s137 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7.5pt; }
+ .s138 { color: black; font-family:等线; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ table, tbody {vertical-align: top; overflow: visible; }
